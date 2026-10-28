@@ -1,0 +1,4 @@
+(design_block_lib_table
+	(version 7)
+	(lib (name "KiCad-ESP32-CP2102-38Pin-main") (type "KiCad") (uri "C:/Users/kikez/Downloads/KiCad-ESP32-CP2102-38Pin-main/KiCad-ESP32-CP2102-38Pin-main") (options "") (descr ""))
+)
